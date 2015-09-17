@@ -5,7 +5,7 @@ require_once('header.php');
 <?php
 if($list){
 ?>
-	<div>
+
 	<?php foreach($list as $k=>$v) { ?>
 		<div class="contentDiv">
 		<h1><a href="index.php?a=Index&m=artile&id=<?php echo $v['id']; ?>">
@@ -16,7 +16,7 @@ if($list){
 		相关描述：<?php echo $v['description']; ?>
 		</p>
 		</div>
-	</div>
+	
 	<?php } ?>
 
 <?php } ?>
