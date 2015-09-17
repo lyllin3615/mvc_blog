@@ -1,0 +1,11 @@
+*{margin:0;padding:0;}
+body{font-size:12px;}
+.bodyContainer{width:800px;margin:0 auto;}
+a{text-decoration:none;color:#333;}
+a:hover{color:#ff0000;text-decoration:underline;}
+
+.articleDetails{margin-top:10px;}
+.adminCate{line-height:24px;}
+.descriptionDiv{margin-top:20px;line-height:24px;}
+.commentDiv{margin-top:20px;}
+.adminCommentDiv{line-height:20px;}

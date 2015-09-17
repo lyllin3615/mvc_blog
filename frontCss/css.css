@@ -1,0 +1,15 @@
+*{margin:0;padding:0;}
+body{font-size:12px;}
+.bodyContainer{width:800px;margin:0 auto;}
+a{text-decoration:none;color:#333;}
+a:hover{color:#ff0000;text-decoration:underline;}
+
+.cateName{line-height:30px;}
+.contentDiv{margin-top:20px;}
+
+.contentDetails{line-height:30px;}
+
+.commentDiv{margin-top:20px;padding-top:20px;}
+.indexDivSpan{margin-top:20px;margin-bottom:20px;}
+.commentBox{margin-top:10px;margin-bottom:10px;line-height:22px;}
+.commentList{margin-top:10px;margin-bottom:10px;}
